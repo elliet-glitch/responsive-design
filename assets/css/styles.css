@@ -1,5 +1,11 @@
 /* styles.css */
 
 * {
-	font-family: Arial;
+    font-family: Arial, sans-serif;
+}
+
+.col,
+.col-4,
+.col-8 {
+    border: 1px solid red;
 }
