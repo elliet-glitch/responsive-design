@@ -6,6 +6,11 @@
     --eggshell: #f4ebd9;
     --grey-olive: #a39a92;
     --ash-brown: #77685d;
-font-family:'Tinos', serif;
 
+}
+body {
+    font-family:'Tinos', serif;
+    background-color: var(--eggshell);
+    font-weight: 400;
+    font-size: 1.2rem;
 }
