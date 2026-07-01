@@ -6,11 +6,19 @@
     --eggshell: #f4ebd9;
     --grey-olive: #a39a92;
     --ash-brown: #77685d;
-
 }
+
 body {
     font-family:'Tinos', serif;
     background-color: var(--eggshell);
     font-weight: 400;
     font-size: 1.2rem;
+    padding-top: 25px;
+}
+h1 {
+    font-family: 'Manufacturing Consent', system-ui;
+    color: var(--deep-mocha);
+    font-size: 4em;
+    border-top: 2px solid var(--deep-mocha);
+    border-bottom: 2px solid var(--deep-mocha);
 }
